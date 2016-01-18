@@ -1,0 +1,52 @@
+package com.kingroot.kinguser; class qo { void a() { int a;
+a=0;// .class Lcom/kingroot/kinguser/qo;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// # interfaces
+a=0;// .implements Lcom/kingroot/kinguser/abt;
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field final synthetic qH:Lcom/kingroot/kinguser/qg;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method constructor <init>(Lcom/kingroot/kinguser/qg;)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 282
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/qo;->qH:Lcom/kingroot/kinguser/qg;
+a=0;// 
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/qo;);
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public b(Landroid/view/View;I)V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 285
+a=0;//     iget-object v0, p0, Lcom/kingroot/kinguser/qo;->qH:Lcom/kingroot/kinguser/qg;
+a=0;// 
+a=0;//     #v0=(Reference,Lcom/kingroot/kinguser/qg;);
+a=0;//     invoke-static {v0}, Lcom/kingroot/kinguser/qg;->a(Lcom/kingroot/kinguser/qg;)Lcom/kingroot/kinguser/jc;
+a=0;// 
+a=0;//     move-result-object v0
+a=0;// 
+a=0;//     invoke-virtual {v0, p2}, Lcom/kingroot/kinguser/jc;->J(I)V
+a=0;// 
+a=0;//     .line 286
+a=0;//     iget-object v0, p0, Lcom/kingroot/kinguser/qo;->qH:Lcom/kingroot/kinguser/qg;
+a=0;// 
+a=0;//     invoke-virtual {v0}, Lcom/kingroot/kinguser/qg;->jc()V
+a=0;// 
+a=0;//     .line 287
+a=0;//     return-void
+a=0;// .end method
+}}

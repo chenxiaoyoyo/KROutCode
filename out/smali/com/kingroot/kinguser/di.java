@@ -1,0 +1,40 @@
+package com.kingroot.kinguser; class di { void a() { int a;
+a=0;// .class public Lcom/kingroot/kinguser/di;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field final synthetic eq:Lcom/kingroot/kinguser/de;
+a=0;// 
+a=0;// .field public er:Landroid/widget/TextView;
+a=0;// 
+a=0;// .field public es:Landroid/widget/TextView;
+a=0;// 
+a=0;// .field public et:Landroid/widget/TextView;
+a=0;// 
+a=0;// .field public eu:Lcom/kingcore/uilib/QSwitchCheckBox;
+a=0;// 
+a=0;// .field public ev:Landroid/widget/ImageView;
+a=0;// 
+a=0;// .field public ew:Landroid/widget/Button;
+a=0;// 
+a=0;// .field public ex:Landroid/widget/ProgressBar;
+a=0;// 
+a=0;// .field public ey:Landroid/view/View;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method public constructor <init>(Lcom/kingroot/kinguser/de;)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 301
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/di;->eq:Lcom/kingroot/kinguser/de;
+a=0;// 
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/di;);
+a=0;//     return-void
+a=0;// .end method
+}}

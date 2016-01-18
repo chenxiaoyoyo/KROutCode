@@ -1,0 +1,115 @@
+package com.kingroot.loader.sdk; class KPPackage { void a() { int a;
+a=0;// .class public Lcom/kingroot/loader/sdk/KPPackage;
+a=0;// .super Ljava/lang/Object;
+a=0;// # done
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field public kpInfo:Lcom/kingroot/loader/sdk/KPInfo;
+a=0;// 
+a=0;// .field private mPluginBaseDataPath:Ljava/lang/String;
+a=0;// 
+a=0;// .field private mPluginDexOutPath:Ljava/lang/String;
+a=0;// 
+a=0;// .field private mPluginLibPath:Ljava/lang/String;
+a=0;// 
+a=0;// .field private mPluginSourcePath:Ljava/lang/String;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method public constructor <init>(Lcom/kingroot/loader/sdk/KPInfo;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     #p0=(Reference,Lcom/kingroot/loader/sdk/KPPackage;);
+a=0;//     const-string v0, ""
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     iput-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginSourcePath:Ljava/lang/String;
+a=0;// 
+a=0;//     const-string v0, ""
+a=0;// 
+a=0;//     iput-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginLibPath:Ljava/lang/String;
+a=0;// 
+a=0;//     const-string v0, ""
+a=0;// 
+a=0;//     iput-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginBaseDataPath:Ljava/lang/String;
+a=0;// 
+a=0;//     const-string v0, ""
+a=0;// 
+a=0;//     iput-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginDexOutPath:Ljava/lang/String;
+a=0;// 
+a=0;//     iput-object p1, p0, Lcom/kingroot/loader/sdk/KPPackage;->kpInfo:Lcom/kingroot/loader/sdk/KPInfo;
+a=0;// 
+a=0;//     iput-object p2, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginSourcePath:Ljava/lang/String;
+a=0;// 
+a=0;//     iput-object p3, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginLibPath:Ljava/lang/String;
+a=0;// 
+a=0;//     iput-object p4, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginBaseDataPath:Ljava/lang/String;
+a=0;// 
+a=0;//     iput-object p5, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginDexOutPath:Ljava/lang/String;
+a=0;// 
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public final getEntryFragmentClass()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     iget-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->kpInfo:Lcom/kingroot/loader/sdk/KPInfo;
+a=0;// 
+a=0;//     #v0=(Reference,Lcom/kingroot/loader/sdk/KPInfo;);
+a=0;//     iget-object v0, v0, Lcom/kingroot/loader/sdk/KPInfo;->entryFragmentClass:Ljava/lang/String;
+a=0;// 
+a=0;//     return-object v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public final getPackageName()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     iget-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->kpInfo:Lcom/kingroot/loader/sdk/KPInfo;
+a=0;// 
+a=0;//     #v0=(Reference,Lcom/kingroot/loader/sdk/KPInfo;);
+a=0;//     iget-object v0, v0, Lcom/kingroot/loader/sdk/KPInfo;->packageName:Ljava/lang/String;
+a=0;// 
+a=0;//     return-object v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public final getPluginBaseDataPath()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     iget-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginBaseDataPath:Ljava/lang/String;
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     return-object v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public final getPluginDexOutPath()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     iget-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginDexOutPath:Ljava/lang/String;
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     return-object v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public final getPluginLibPath()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     iget-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginLibPath:Ljava/lang/String;
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     return-object v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public final getPluginSourcePath()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     iget-object v0, p0, Lcom/kingroot/loader/sdk/KPPackage;->mPluginSourcePath:Ljava/lang/String;
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     return-object v0
+a=0;// .end method
+}}

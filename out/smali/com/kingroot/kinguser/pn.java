@@ -1,0 +1,51 @@
+package com.kingroot.kinguser; class pn { void a() { int a;
+a=0;// .class Lcom/kingroot/kinguser/pn;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// # interfaces
+a=0;// .implements Ljava/lang/Runnable;
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field final synthetic pX:Lcom/kingroot/kinguser/pm;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method constructor <init>(Lcom/kingroot/kinguser/pm;)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 424
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/pn;->pX:Lcom/kingroot/kinguser/pm;
+a=0;// 
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/pn;);
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public run()V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 427
+a=0;//     iget-object v0, p0, Lcom/kingroot/kinguser/pn;->pX:Lcom/kingroot/kinguser/pm;
+a=0;// 
+a=0;//     #v0=(Reference,Lcom/kingroot/kinguser/pm;);
+a=0;//     iget-object v0, v0, Lcom/kingroot/kinguser/pm;->pW:Lcom/kingroot/kinguser/pl;
+a=0;// 
+a=0;//     iget-object v0, v0, Lcom/kingroot/kinguser/pl;->pS:Lcom/kingroot/kinguser/ow;
+a=0;// 
+a=0;//     invoke-virtual {v0}, Lcom/kingroot/kinguser/ow;->aL()Lcom/kingroot/kinguser/baseui/BaseActivity;
+a=0;// 
+a=0;//     move-result-object v0
+a=0;// 
+a=0;//     invoke-virtual {v0}, Lcom/kingroot/kinguser/baseui/BaseActivity;->finish()V
+a=0;// 
+a=0;//     .line 428
+a=0;//     return-void
+a=0;// .end method
+}}

@@ -1,0 +1,81 @@
+package com.kingroot.kinguser; class dw { void a() { int a;
+a=0;// .class public Lcom/kingroot/kinguser/dw;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field public data:Ljava/lang/Object;
+a=0;// 
+a=0;// .field public fb:Ljava/lang/String;
+a=0;// 
+a=0;// .field public type:I
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method public constructor <init>(Ljava/lang/Object;Ljava/lang/String;)V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 268
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     .line 269
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/dw;);
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/dw;->data:Ljava/lang/Object;
+a=0;// 
+a=0;//     .line 270
+a=0;//     const/4 v0, 0x0
+a=0;// 
+a=0;//     #v0=(Null);
+a=0;//     iput v0, p0, Lcom/kingroot/kinguser/dw;->type:I
+a=0;// 
+a=0;//     .line 271
+a=0;//     iput-object p2, p0, Lcom/kingroot/kinguser/dw;->fb:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 272
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// .method public constructor <init>(Ljava/lang/Object;Ljava/lang/String;I)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 275
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     .line 276
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/dw;);
+a=0;//     iput-object p2, p0, Lcom/kingroot/kinguser/dw;->fb:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 277
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/dw;->data:Ljava/lang/Object;
+a=0;// 
+a=0;//     .line 278
+a=0;//     iput p3, p0, Lcom/kingroot/kinguser/dw;->type:I
+a=0;// 
+a=0;//     .line 279
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// .method public constructor <init>(Ljava/lang/String;)V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 262
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     .line 263
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/dw;);
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/dw;->fb:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 264
+a=0;//     const/4 v0, 0x1
+a=0;// 
+a=0;//     #v0=(One);
+a=0;//     iput v0, p0, Lcom/kingroot/kinguser/dw;->type:I
+a=0;// 
+a=0;//     .line 265
+a=0;//     return-void
+a=0;// .end method
+}}

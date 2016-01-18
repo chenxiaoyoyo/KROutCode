@@ -1,0 +1,89 @@
+package com.kingroot.kinguser; class no { void a() { int a;
+a=0;// .class public Lcom/kingroot/kinguser/no;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field private kC:Ljava/lang/String;
+a=0;// 
+a=0;// .field private lc:I
+a=0;// 
+a=0;// .field private oK:Ljava/lang/String;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method public constructor <init>()V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 9
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     .line 10
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/no;);
+a=0;//     const-string v0, ""
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     iput-object v0, p0, Lcom/kingroot/kinguser/no;->kC:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 11
+a=0;//     const-string v0, ""
+a=0;// 
+a=0;//     iput-object v0, p0, Lcom/kingroot/kinguser/no;->oK:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 12
+a=0;//     const/4 v0, 0x0
+a=0;// 
+a=0;//     #v0=(Null);
+a=0;//     iput v0, p0, Lcom/kingroot/kinguser/no;->lc:I
+a=0;// 
+a=0;//     .line 13
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// .method public constructor <init>(Ljava/lang/String;Ljava/lang/String;I)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 15
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     .line 16
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/no;);
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/no;->kC:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 17
+a=0;//     iput-object p2, p0, Lcom/kingroot/kinguser/no;->oK:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 18
+a=0;//     iput p3, p0, Lcom/kingroot/kinguser/no;->lc:I
+a=0;// 
+a=0;//     .line 19
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public getType()I
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 38
+a=0;//     iget v0, p0, Lcom/kingroot/kinguser/no;->lc:I
+a=0;// 
+a=0;//     #v0=(Integer);
+a=0;//     return v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public iy()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 30
+a=0;//     iget-object v0, p0, Lcom/kingroot/kinguser/no;->oK:Ljava/lang/String;
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     return-object v0
+a=0;// .end method
+}}

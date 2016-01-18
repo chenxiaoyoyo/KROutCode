@@ -1,0 +1,31 @@
+package android.support.v4.view; class MenuItemCompat$MenuVersionImpl { void a() { int a;
+a=0;// .class interface abstract Landroid/support/v4/view/MenuItemCompat$MenuVersionImpl;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public abstract collapseActionView(Landroid/view/MenuItem;)Z
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract expandActionView(Landroid/view/MenuItem;)Z
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract getActionView(Landroid/view/MenuItem;)Landroid/view/View;
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract isActionViewExpanded(Landroid/view/MenuItem;)Z
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract setActionView(Landroid/view/MenuItem;I)Landroid/view/MenuItem;
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract setActionView(Landroid/view/MenuItem;Landroid/view/View;)Landroid/view/MenuItem;
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract setOnActionExpandListener(Landroid/view/MenuItem;Landroid/support/v4/view/MenuItemCompat$OnActionExpandListener;)Landroid/view/MenuItem;
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract setShowAsAction(Landroid/view/MenuItem;I)V
+a=0;// .end method
+}}

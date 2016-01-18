@@ -1,0 +1,59 @@
+package android.support.v4.widget; class SearchViewCompatIcs { void a() { int a;
+a=0;// .class Landroid/support/v4/widget/SearchViewCompatIcs;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method constructor <init>()V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 26
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     .line 28
+a=0;//     #p0=(Reference,Landroid/support/v4/widget/SearchViewCompatIcs;);
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// .method public static newSearchView(Landroid/content/Context;)Landroid/view/View;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 43
+a=0;//     new-instance v0, Landroid/support/v4/widget/SearchViewCompatIcs$MySearchView;
+a=0;// 
+a=0;//     #v0=(UninitRef,Landroid/support/v4/widget/SearchViewCompatIcs$MySearchView;);
+a=0;//     invoke-direct {v0, p0}, Landroid/support/v4/widget/SearchViewCompatIcs$MySearchView;-><init>(Landroid/content/Context;)V
+a=0;// 
+a=0;//     #v0=(Reference,Landroid/support/v4/widget/SearchViewCompatIcs$MySearchView;);
+a=0;//     return-object v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public static setImeOptions(Landroid/view/View;I)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 47
+a=0;//     check-cast p0, Landroid/widget/SearchView;
+a=0;// 
+a=0;//     invoke-virtual {p0, p1}, Landroid/widget/SearchView;->setImeOptions(I)V
+a=0;// 
+a=0;//     .line 48
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// .method public static setInputType(Landroid/view/View;I)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 51
+a=0;//     check-cast p0, Landroid/widget/SearchView;
+a=0;// 
+a=0;//     invoke-virtual {p0, p1}, Landroid/widget/SearchView;->setInputType(I)V
+a=0;// 
+a=0;//     .line 52
+a=0;//     return-void
+a=0;// .end method
+}}

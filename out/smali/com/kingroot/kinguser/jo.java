@@ -1,0 +1,34 @@
+package com.kingroot.kinguser; class jo { void a() { int a;
+a=0;// .class public interface abstract Lcom/kingroot/kinguser/jo;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// # interfaces
+a=0;// .implements Landroid/os/IInterface;
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public abstract a(IILjava/lang/String;)V
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract aN(Ljava/lang/String;)Z
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract aO(Ljava/lang/String;)Z
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract aS(Ljava/lang/String;)Z
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract ag(Z)V
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract ai(Z)V
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract gT()Z
+a=0;// .end method
+a=0;// 
+a=0;// .method public abstract j(IZ)I
+a=0;// .end method
+}}

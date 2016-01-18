@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KingRoot</string>
+    <string name="kr4_null_">null_</string>
+    <string name="kr4_title">KingRoot</string>
+    <string name="kr4_enable_network_hint">"Network error, unable to deploy root strategy
+Tap \"SET NOW\" to configure Internet"</string>
+    <string name="kr4_set_now">SET NOW</string>
+    <string name="kr4_checking_root">Verify Root Status…</string>
+    <string name="kr4_unrooted">Root access is unavailable</string>
+    <string name="kr4_need_adapting">We need do more works</string>
+    <string name="kr4_new_solution_can_try">Root strategy available, just try it</string>
+    <string name="kr4_start_root">START ROOT</string>
+    <string name="kr4_try_to_root">TRY TO ROOT</string>
+    <string name="kr4_commit">SUBMIT</string>
+    <string name="kr4_adapt_req_count_hint">have submitted research request</string>
+    <string name="kr4_pc_root_tutorial">Tutorial of KingRoot desktop version</string>
+    <string name="kr4_percentage_label">%</string>
+    <string name="kr4_root_got">Root successfully</string>
+    <string name="kr4_uninstall">"Remove
+apps"</string>
+    <string name="kr4_autostart">"Autostart
+manager"</string>
+    <string name="kr4_clean">"Purify
+system"</string>
+    <string name="kr4_km_percent_hint">90% users optimize their phone with KingMaster</string>
+    <string name="kr4_one_click_clean">PURIFY</string>
+    <string name="kr4_item">" apps"</string>
+    <string name="kr4_apps_consumpting">draining your battery</string>
+    <string name="kr4_cleaned_hint">Purify Finished</string>
+    <string name="kr4_mock_loc_hint">Please check \"Allow mock locations\" first</string>
+    <string name="kr4_developer_option">Developer options</string>
+    <string name="kr4_allow_mock_location">Allow mock locations</string>
+    <string name="kr4_pc_tutor_hint1">Tutorial of KingRoot desktop version</string>
+    <string name="kr4_pc_tutor_hint2">KingRoot(PC) has higher success rate</string>
+    <string name="kr4_pc_tutor_title">Please follow instructions below</string>
+    <string name="kr4_pc_tutor_sub_title1">&lt;html>1、To visit &lt;font color=#007FEA>www.kingroot.net&lt;/font>, download and install KingRoot desktop version&lt;/html></string>
+    <string name="kr4_pc_tutor_sub_title2">2、To launch KingRoot desktop version，get Root access step by step</string>
+    <string name="kr4_brand">Model：</string>
+    <string name="kr4_Android">Android</string>
+    <string name="kr4_preprare_jobs">Please do prepare work first</string>
+    <string name="kr4_root_failed">Root Failed</string>
+    <string name="kr4_suggest_pc">Please try desktop version</string>
+    <string name="kr4_no_solution">Root strategy unavailable</string>
+    <string name="kr4_phone_cant_root">Unable to Root</string>
+    <string name="kr4_not_adapted_yet">no strategy now</string>
+    <string name="kr4_root_failed_retry">Retry</string>
+    <string name="kr4_success_rating_phone">Success rate</string>
+    <string name="kr4_success_rating_pc">Success rate</string>
+    <string name="kr4_time_cost_average">Time cost (avg)</string>
+    <string name="kr4_success_count_totally">Get root</string>
+    <string name="kr4_minute">m</string>
+    <string name="kr4_second">s</string>
+    <string name="kr4_person">ppls</string>
+    <string name="kr4_root_tips_00">"Plz don't worry if your device reboot~"</string>
+    <string name="kr4_root_tips_01">Root has ability to remove Sys. apps~</string>
+    <string name="kr4_root_tips_02">Root also can disable autostart apps~</string>
+    <string name="kr4_root_tips_03">Please try KingRoot to manage root ~ </string>
+    <string name="kr4_adapt_req_received">Request accepted, research is accelerating now</string>
+    <string name="kr4_get_root_success">Root successfully</string>
+    <string name="kr4_rooting">"Rooting…
+"</string>
+    <string name="kr4_get_root_suc">"Root successfully
+"</string>
+    <string name="kr4_check_env_after_root">"Checking phone status after
+get root access…"</string>
+    <string name="kr4_install_km_failed_retry_pls">Enable failed, please try again！</string>
+    <string name="kr4_receive" />
+    <string name="kr4_times_request">" request received"</string>
+    <string name="kr4_we_will_try_to_adapte">Research is accelerating for you</string>
+    <string name="kr4_num_00">00</string>
+    <string name="kr4_network_unavailable">Network error</string>
+    <string name="kr4_cant_obtain_solutions_from_remote">Unable to get root strategy from cloud</string>
+    <string name="update_dialog_title">Reminder</string>
+    <string name="update_dialog_ok">Update now</string>
+    <string name="update_dialog_cancel">Cancel</string>
+</resources>

@@ -1,0 +1,211 @@
+package com.kingroot.kinguser; class ib { void a() { int a;
+a=0;// .class Lcom/kingroot/kinguser/ib;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// # interfaces
+a=0;// .implements Lcom/kingroot/kinguser/gx;
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field final synthetic iy:Lcom/kingroot/kinguser/ia;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method constructor <init>(Lcom/kingroot/kinguser/ia;)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 150
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/ib;->iy:Lcom/kingroot/kinguser/ia;
+a=0;// 
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/ib;);
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public e(Ljava/util/List;)Ljava/lang/Object;
+a=0;//     .locals 5
+a=0;// 
+a=0;//     .prologue
+a=0;//     const/4 v4, 0x0
+a=0;// 
+a=0;//     .line 154
+a=0;//     #v4=(Null);
+a=0;//     invoke-static {}, Lcom/kingroot/kinguser/gn;->cL()Lcom/kingroot/kinguser/gn;
+a=0;// 
+a=0;//     move-result-object v0
+a=0;// 
+a=0;//     .line 155
+a=0;//     #v0=(Reference,Lcom/kingroot/kinguser/gn;);
+a=0;//     const/4 v1, 0x1
+a=0;// 
+a=0;//     #v1=(One);
+a=0;//     invoke-virtual {v0, v1}, Lcom/kingroot/kinguser/gn;->t(Z)Z
+a=0;// 
+a=0;//     move-result v1
+a=0;// 
+a=0;//     #v1=(Boolean);
+a=0;//     if-eqz v1, :cond_0
+a=0;// 
+a=0;//     .line 156
+a=0;//     new-instance v1, Ljava/util/ArrayList;
+a=0;// 
+a=0;//     #v1=(UninitRef,Ljava/util/ArrayList;);
+a=0;//     const/4 v2, 0x7
+a=0;// 
+a=0;//     #v2=(PosByte);
+a=0;//     invoke-direct {v1, v2}, Ljava/util/ArrayList;-><init>(I)V
+a=0;// 
+a=0;//     .line 157
+a=0;//     #v1=(Reference,Ljava/util/ArrayList;);
+a=0;//     sget-object v2, Lcom/kingroot/kinguser/et;->fD:Ljava/lang/String;
+a=0;// 
+a=0;//     #v2=(Reference,Ljava/lang/String;);
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 158
+a=0;//     sget-object v2, Lcom/kingroot/kinguser/et;->fF:Ljava/lang/String;
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 159
+a=0;//     invoke-static {}, Lcom/kingroot/kinguser/ia;->bL()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-static {v2, v4}, Lcom/kingroot/kinguser/es;->b(Ljava/lang/String;Z)Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 160
+a=0;//     new-instance v2, Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     #v2=(UninitRef,Ljava/lang/StringBuilder;);
+a=0;//     invoke-direct {v2}, Ljava/lang/StringBuilder;-><init>()V
+a=0;// 
+a=0;//     #v2=(Reference,Ljava/lang/StringBuilder;);
+a=0;//     sget-object v3, Lcom/kingroot/kinguser/et;->fI:Ljava/lang/String;
+a=0;// 
+a=0;//     #v3=(Reference,Ljava/lang/String;);
+a=0;//     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-static {}, Lcom/kingroot/kinguser/ia;->bL()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v3
+a=0;// 
+a=0;//     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-virtual {v2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 161
+a=0;//     invoke-static {}, Lcom/kingroot/kinguser/ia;->bM()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-static {v2, v4}, Lcom/kingroot/kinguser/es;->b(Ljava/lang/String;Z)Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 162
+a=0;//     new-instance v2, Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     #v2=(UninitRef,Ljava/lang/StringBuilder;);
+a=0;//     invoke-direct {v2}, Ljava/lang/StringBuilder;-><init>()V
+a=0;// 
+a=0;//     #v2=(Reference,Ljava/lang/StringBuilder;);
+a=0;//     sget-object v3, Lcom/kingroot/kinguser/et;->fI:Ljava/lang/String;
+a=0;// 
+a=0;//     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-static {}, Lcom/kingroot/kinguser/ia;->bM()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v3
+a=0;// 
+a=0;//     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-virtual {v2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 163
+a=0;//     invoke-static {}, Lcom/kingroot/kinguser/ia;->bZ()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-static {v2, v4}, Lcom/kingroot/kinguser/es;->b(Ljava/lang/String;Z)Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 164
+a=0;//     new-instance v2, Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     #v2=(UninitRef,Ljava/lang/StringBuilder;);
+a=0;//     invoke-direct {v2}, Ljava/lang/StringBuilder;-><init>()V
+a=0;// 
+a=0;//     #v2=(Reference,Ljava/lang/StringBuilder;);
+a=0;//     sget-object v3, Lcom/kingroot/kinguser/et;->fI:Ljava/lang/String;
+a=0;// 
+a=0;//     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-static {}, Lcom/kingroot/kinguser/ia;->bZ()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v3
+a=0;// 
+a=0;//     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-virtual {v2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+a=0;// 
+a=0;//     move-result-object v2
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 165
+a=0;//     sget-object v2, Lcom/kingroot/kinguser/et;->fE:Ljava/lang/String;
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 166
+a=0;//     sget-object v2, Lcom/kingroot/kinguser/et;->fG:Ljava/lang/String;
+a=0;// 
+a=0;//     invoke-interface {v1, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+a=0;// 
+a=0;//     .line 168
+a=0;//     invoke-virtual {v0, v1}, Lcom/kingroot/kinguser/gn;->k(Ljava/util/List;)Ljava/util/List;
+a=0;// 
+a=0;//     .line 170
+a=0;//     :cond_0
+a=0;//     #v1=(Conflicted);v2=(Conflicted);v3=(Conflicted);
+a=0;//     const/4 v0, 0x0
+a=0;// 
+a=0;//     #v0=(Null);
+a=0;//     return-object v0
+a=0;// .end method
+}}

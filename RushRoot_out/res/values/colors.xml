@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kr4_main_blue">#ff007fea</color>
+    <color name="kr4_main_white">#fff0f4f6</color>
+    <color name="kr4_black_text">#ff263238</color>
+    <color name="kr4_black_text_secondary">#ff90a4ae</color>
+    <color name="kr4_golden_text">#ccff9c00</color>
+    <color name="kr4_failed_red">#ffff5722</color>
+    <color name="kr4_main_blue_pressed">#ff006ed9</color>
+    <color name="kr4_gray_line">#ffa5b6be</color>
+    <color name="kr4_progress_circle_grounding">#ffe5f2fd</color>
+    <color name="kr4_success_green">#ff2baf2b</color>
+    <color name="kr4_circle_outer_loop_gray">#8090a4ae</color>
+</resources>

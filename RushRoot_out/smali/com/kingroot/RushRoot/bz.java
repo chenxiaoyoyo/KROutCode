@@ -1,0 +1,41 @@
+package com.kingroot.RushRoot; class bz { void a() { int a;
+a=0;// .class public final Lcom/kingroot/RushRoot/bz;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field public final a:Ljava/lang/String;
+a=0;// 
+a=0;// .field public final b:Ljava/lang/String;
+a=0;// 
+a=0;// .field public final c:Ljava/lang/String;
+a=0;// 
+a=0;// .field public final d:Ljava/lang/Integer;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method public constructor <init>(Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/String;Ljava/lang/String;)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 505
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     .line 506
+a=0;//     #p0=(Reference,Lcom/kingroot/RushRoot/bz;);
+a=0;//     iput-object p1, p0, Lcom/kingroot/RushRoot/bz;->a:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 507
+a=0;//     iput-object p2, p0, Lcom/kingroot/RushRoot/bz;->d:Ljava/lang/Integer;
+a=0;// 
+a=0;//     .line 508
+a=0;//     iput-object p3, p0, Lcom/kingroot/RushRoot/bz;->b:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 509
+a=0;//     iput-object p4, p0, Lcom/kingroot/RushRoot/bz;->c:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 510
+a=0;//     return-void
+a=0;// .end method
+}}

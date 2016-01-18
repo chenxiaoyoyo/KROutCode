@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/base_bottom_twobtn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <Button android:textSize="15.329987sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/common_btn" android:background="@drawable/kr4_bottom_btn" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_marginLeft="37.329987dip" android:layout_marginRight="37.329987dip" android:singleLine="true" />
+        <Button android:textSize="15.329987sp" android:textColor="@color/kr4_main_blue" android:gravity="center_vertical" android:id="@id/common_btn_sec" android:background="@color/kr4_main_white" android:layout_width="wrap_content" android:layout_height="45.0dip" android:layout_marginRight="37.329987dip" android:text="@string/kr4_root_failed_retry" android:layout_below="@id/common_btn" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/center_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/base_bottom_twobtn" />
+</RelativeLayout>

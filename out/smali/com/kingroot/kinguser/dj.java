@@ -1,0 +1,49 @@
+package com.kingroot.kinguser; class dj { void a() { int a;
+a=0;// .class public Lcom/kingroot/kinguser/dj;
+a=0;// .super Lcom/kingroot/kinguser/dk;
+a=0;// .source "SourceFile AbsAppSunHandler done"
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field final synthetic eB:Lcom/kingroot/kinguser/app/AbsApplication;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method public constructor <init>(Lcom/kingroot/kinguser/app/AbsApplication;Lcom/kingroot/kinguser/app/AbsApplication;)V
+a=0;// 	   #done
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 36
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/dj;->eB:Lcom/kingroot/kinguser/app/AbsApplication;
+a=0;// 
+a=0;//     invoke-direct {p0, p2}, Lcom/kingroot/kinguser/dk;-><init>(Lcom/kingroot/kinguser/app/AbsApplication;)V
+a=0;// 
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/dj;);
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public handleMessage(Landroid/os/Message;)V
+a=0;// 	   #done
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 39
+a=0;//     invoke-virtual {p0}, Lcom/kingroot/kinguser/dj;->az()Lcom/kingroot/kinguser/app/AbsApplication;
+a=0;// 
+a=0;//     move-result-object v0
+a=0;// 
+a=0;//     .line 40
+a=0;//     #v0=(Reference,Lcom/kingroot/kinguser/app/AbsApplication;);
+a=0;//     if-eqz v0, :cond_0
+a=0;// 
+a=0;//     .line 41
+a=0;//     invoke-virtual {v0, p1}, Lcom/kingroot/kinguser/app/AbsApplication;->a(Landroid/os/Message;)V
+a=0;// 
+a=0;//     .line 43
+a=0;//     :cond_0
+a=0;//     return-void
+a=0;// .end method
+}}

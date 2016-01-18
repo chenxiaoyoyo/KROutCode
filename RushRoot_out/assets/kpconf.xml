@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin_info>
+    <!-- 插件名 -->
+    <name>KingRoot</name>
+    <!-- 插件版本号 -->
+    <ver_code>41</ver_code>
+    <!-- 插件版本名 -->
+    <ver_name>4.5.0</ver_name>
+    <!-- 插件包名 -->
+    <pkg_name>com.kingroot.RushRoot</pkg_name>
+    <!-- 插件入口类名 -->
+    <entry_class>com.kingroot.RushRoot.KrPluginApplication</entry_class>
+    <!-- 插件入口的 Fragment 类名 -->
+    <entry_fragment>com.kingroot.RushRoot.activities.MainFragment</entry_fragment>
+    <!-- 宿主信息 -->
+    <host_info>
+        <!-- 最低支持宿主版本 -->
+        <min_ver>1</min_ver>
+    </host_info>
+</plugin_info>

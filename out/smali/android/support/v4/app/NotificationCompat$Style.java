@@ -1,0 +1,91 @@
+package android.support.v4.app; class NotificationCompat$Style { void a() { int a;
+a=0;// .class public abstract Landroid/support/v4/app/NotificationCompat$Style;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field mBigContentTitle:Ljava/lang/CharSequence;
+a=0;// 
+a=0;// .field mBuilder:Landroid/support/v4/app/NotificationCompat$Builder;
+a=0;// 
+a=0;// .field mSummaryText:Ljava/lang/CharSequence;
+a=0;// 
+a=0;// .field mSummaryTextSet:Z
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method public constructor <init>()V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 606
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     .line 611
+a=0;//     #p0=(Reference,Landroid/support/v4/app/NotificationCompat$Style;);
+a=0;//     const/4 v0, 0x0
+a=0;// 
+a=0;//     #v0=(Null);
+a=0;//     iput-boolean v0, p0, Landroid/support/v4/app/NotificationCompat$Style;->mSummaryTextSet:Z
+a=0;// 
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public build()Landroid/app/Notification;
+a=0;//     .locals 2
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 623
+a=0;//     const/4 v0, 0x0
+a=0;// 
+a=0;//     .line 624
+a=0;//     #v0=(Null);
+a=0;//     iget-object v1, p0, Landroid/support/v4/app/NotificationCompat$Style;->mBuilder:Landroid/support/v4/app/NotificationCompat$Builder;
+a=0;// 
+a=0;//     #v1=(Reference,Landroid/support/v4/app/NotificationCompat$Builder;);
+a=0;//     if-eqz v1, :cond_0
+a=0;// 
+a=0;//     .line 625
+a=0;//     iget-object v0, p0, Landroid/support/v4/app/NotificationCompat$Style;->mBuilder:Landroid/support/v4/app/NotificationCompat$Builder;
+a=0;// 
+a=0;//     #v0=(Reference,Landroid/support/v4/app/NotificationCompat$Builder;);
+a=0;//     invoke-virtual {v0}, Landroid/support/v4/app/NotificationCompat$Builder;->build()Landroid/app/Notification;
+a=0;// 
+a=0;//     move-result-object v0
+a=0;// 
+a=0;//     .line 627
+a=0;//     :cond_0
+a=0;//     return-object v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public setBuilder(Landroid/support/v4/app/NotificationCompat$Builder;)V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 614
+a=0;//     iget-object v0, p0, Landroid/support/v4/app/NotificationCompat$Style;->mBuilder:Landroid/support/v4/app/NotificationCompat$Builder;
+a=0;// 
+a=0;//     #v0=(Reference,Landroid/support/v4/app/NotificationCompat$Builder;);
+a=0;//     if-eq v0, p1, :cond_0
+a=0;// 
+a=0;//     .line 615
+a=0;//     iput-object p1, p0, Landroid/support/v4/app/NotificationCompat$Style;->mBuilder:Landroid/support/v4/app/NotificationCompat$Builder;
+a=0;// 
+a=0;//     .line 616
+a=0;//     iget-object v0, p0, Landroid/support/v4/app/NotificationCompat$Style;->mBuilder:Landroid/support/v4/app/NotificationCompat$Builder;
+a=0;// 
+a=0;//     if-eqz v0, :cond_0
+a=0;// 
+a=0;//     .line 617
+a=0;//     iget-object v0, p0, Landroid/support/v4/app/NotificationCompat$Style;->mBuilder:Landroid/support/v4/app/NotificationCompat$Builder;
+a=0;// 
+a=0;//     invoke-virtual {v0, p0}, Landroid/support/v4/app/NotificationCompat$Builder;->setStyle(Landroid/support/v4/app/NotificationCompat$Style;)Landroid/support/v4/app/NotificationCompat$Builder;
+a=0;// 
+a=0;//     .line 620
+a=0;//     :cond_0
+a=0;//     return-void
+a=0;// .end method
+}}

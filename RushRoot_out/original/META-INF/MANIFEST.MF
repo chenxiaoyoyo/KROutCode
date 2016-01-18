@@ -1,0 +1,300 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/kr4_bottom_btn_normal.xml
+SHA1-Digest: Ccr+epU//x5RO7DV9Ns7SFuK1sE=
+
+Name: res/drawable-mdpi/kr4_brand_gray_08.png
+SHA1-Digest: 5Lec42lZh9aaWoK4RdMU9XxQqKs=
+
+Name: res/drawable-mdpi/kr4_brand_gray_02.png
+SHA1-Digest: qxtUWBedTiVqgwsLw3t0ZVGddiM=
+
+Name: res/drawable/kr4_rooting_ring_dashed.xml
+SHA1-Digest: fnmGfYuibmRCMmF4VhWXARDb9I0=
+
+Name: res/drawable/kr4_circle_outer_loop_success_green.xml
+SHA1-Digest: knY5L1ggVWjnzqdyBMDxFciIefI=
+
+Name: assets/krsdk.res
+SHA1-Digest: JZr8F/fJodWHrkfhcZU040nBK3E=
+
+Name: res/drawable/kr4_bottom_btn.xml
+SHA1-Digest: WCtQXaKC+3cujSl6xTvRMoXnOAk=
+
+Name: res/drawable/kr4_circle_outer_loop_success_blue.xml
+SHA1-Digest: 0uT8PwGIiVVYryvqKZja+dYXT2Q=
+
+Name: res/drawable-xxhdpi/kr4_icon_network_disabled.png
+SHA1-Digest: pdrNw/pNHaTjSjs2Hw0K9omBoZo=
+
+Name: assets/40236.dat
+SHA1-Digest: baOneWRY+yd6oNrO9iBSflbdmsI=
+
+Name: res/drawable-hdpi/kr4_star_10.png
+SHA1-Digest: oZYINfh7sYLdiFYCYjwfpiF9ids=
+
+Name: res/drawable-hdpi/kr4_mockloc_img_bg.png
+SHA1-Digest: bF7ghxjOExTduYiu/FojPR4x8VU=
+
+Name: assets/su
+SHA1-Digest: evCtXWh5XO9KkQt2soN2ZdFNltM=
+
+Name: res/layout/kr4_bottom_checkingroot.xml
+SHA1-Digest: EjrFBPX4LW1CsUZZ3hoYW03641I=
+
+Name: res/drawable-mdpi/kr4_brand_gray_07.png
+SHA1-Digest: EiRldmnHgA87Mp0otDcyOayc7S8=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: tnA3v6K2zDv0v9JtJ1yOguOqDRo=
+
+Name: res/drawable/above_shadow.xml
+SHA1-Digest: 5567kf6uVWwokfl+sfDLENDQ940=
+
+Name: res/drawable-mdpi/kr4_brand_gray_11.png
+SHA1-Digest: FKRhZieHOC3hGBbtbA9frYYUJ94=
+
+Name: res/drawable-hdpi/kr4_mockloc_img_ic_checked.png
+SHA1-Digest: GnEYa/jpv6Hak0k0pyDV9d+umq8=
+
+Name: assets/config.properties
+SHA1-Digest: e+TIUtsJu5q/pxW1QKsbW109q0o=
+
+Name: res/drawable-xxhdpi/kr4_ic_root_hint.9.png
+SHA1-Digest: IfYDqLWN5989U9zomTOdsEeqhFU=
+
+Name: assets/krsdk.cert
+SHA1-Digest: cpC7Kt3e/vc+pZLsq1wxPK7esfE=
+
+Name: res/drawable-hdpi/kr4_star_00.png
+SHA1-Digest: BEeRX6M3JO+ws4lrVoQRp96ov7U=
+
+Name: com/tencent/wscl/wscllibVersion.txt
+SHA1-Digest: ZlixbrOmq+6DnMcWwAseoXQJOSs=
+
+Name: res/drawable-xxhdpi/kr4_icon_unrooted.png
+SHA1-Digest: CSbxOvMpmzaMT9rKYu23qkNshrM=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: 2Ac347XeiqxRYq+6U3bsx9l6mUs=
+
+Name: res/layout/kr4_base_bottom_with_twobtn.xml
+SHA1-Digest: y8jXBsEDcxs2m1GnV39FbOOow6A=
+
+Name: resources.arsc
+SHA1-Digest: DHJNohesmNpTN9NBJ6e6fnxj03o=
+
+Name: res/drawable/below_shadow.xml
+SHA1-Digest: /+YnNSGFDtnQkBOppbL0Sk4crZo=
+
+Name: res/layout/kr4_circle_root_success.xml
+SHA1-Digest: TGQ0RkFkI0oOMk1MH8Z66PQrIbQ=
+
+Name: res/drawable/kr4_success_tick_clip.xml
+SHA1-Digest: nP9bhJLGc4VvIWiaoRnj39qRyS4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: jAUbb2Nzu845vKwjuhYhO5dm59E=
+
+Name: res/layout/kr4_detail_adapt_req.xml
+SHA1-Digest: 3MNCKja1v9RtddiqSlYuZZ0O75o=
+
+Name: res/drawable-mdpi/kr4_brand_gray_03.png
+SHA1-Digest: IFVTb2s2ci+t20olLU5br3pFKaE=
+
+Name: res/layout/kr4_bottom_rooting.xml
+SHA1-Digest: Y3+wsGPnagsrs7HiSaTA9ANaj88=
+
+Name: assets/ktools
+SHA1-Digest: QvDHKl+w52gx6RYFu0A8TPNjA7M=
+
+Name: res/drawable-hdpi/kr4_drag_down.png
+SHA1-Digest: /W0EBVEVpvFJNba2JIxBBPB3sHc=
+
+Name: res/drawable-xxhdpi/kr4_icon_root_failed.png
+SHA1-Digest: faDrybf8QS8QCRcXOdz83ze1lsY=
+
+Name: res/drawable/kr4_checking_base_loop.xml
+SHA1-Digest: GuZK3TpjzlWH5cSB+FgqrfFynAo=
+
+Name: res/drawable-hdpi/kr4_mockloc_img_ic_unchecked.png
+SHA1-Digest: Dx7GAPD2dr7gry9JH6Lu0ijAJEA=
+
+Name: res/drawable/kr4_rooting_ring_gray.xml
+SHA1-Digest: /Fp5r852xkp7aXpBZ2DgL6aknXI=
+
+Name: res/layout/kr4_circle_rooting.xml
+SHA1-Digest: 3/RfLHFFmIobZN3kJNokYcSvrO8=
+
+Name: assets/kpconf.xml
+SHA1-Digest: btWyRCNCj1Q36krVLzORXg4UYFc=
+
+Name: res/drawable-xxhdpi/kr4_req_received_red.png
+SHA1-Digest: rVAIC9jXozmjLGnoICVgg3FiOhw=
+
+Name: res/layout/kr4_base_bottom_with_onebtn.xml
+SHA1-Digest: 8dewn/1a1o+QgltxARqyDv50rKo=
+
+Name: res/drawable-hdpi/kr4_pc_tutor_img_2.png
+SHA1-Digest: rY5e0niiir/Bmhxl7YwiOMAYoBA=
+
+Name: res/drawable-mdpi/kr4_brand_gray_00.png
+SHA1-Digest: Y2CayukV/xh/z/ekeRDtB/R4ZQ8=
+
+Name: classes.dex
+SHA1-Digest: 5WcoELzTxhEFqJSnHV2OSRRpEhM=
+
+Name: res/layout/kr4_circle_checking_root.xml
+SHA1-Digest: cJjl3M9wBt2c9v6OdjJjCwesXvY=
+
+Name: res/layout/kr4_activity_container.xml
+SHA1-Digest: r9X/kjYfsedbyilUVIzPbsD20Nw=
+
+Name: res/drawable/kr4_btn_one_click_clean.xml
+SHA1-Digest: 9gO/QQHY/CorChl8BSW1PXJjgII=
+
+Name: res/drawable-mdpi/kr4_brand_gray_12.png
+SHA1-Digest: EsGgME9R4ERQ3YDcPiwCCWUVV1Y=
+
+Name: res/layout/kr4_detail_new_solution_can_try.xml
+SHA1-Digest: Yk6zf6q6UE1olZtLe4btCm0n0XM=
+
+Name: res/anim/kr4_activity_in.xml
+SHA1-Digest: Zt0nKBSPYTD6t5mzwuYwHN6LUVM=
+
+Name: assets/64_libkrsdk.1.0.163.so
+SHA1-Digest: FTUo51Cx4U2MhvtGgRiDLTRtANU=
+
+Name: res/drawable/kr4_white_solid_circle.xml
+SHA1-Digest: g6D+lT4m6QiqxObR667nLUXWh9o=
+
+Name: res/drawable-mdpi/kr4_brand_gray_05.png
+SHA1-Digest: F5x1shegMS2oRWOU0AaWEb2592U=
+
+Name: res/drawable/kr4_gray_circle_cover.xml
+SHA1-Digest: UNNVKTKsyMuh5awsXpZZmnzLZRQ=
+
+Name: res/layout/kr4_pc_can_root_button.xml
+SHA1-Digest: QPlPy3c8mhC1QxRFIUY6/nPIgPU=
+
+Name: res/drawable-mdpi/kr4_brand_gray_15.png
+SHA1-Digest: AEeFEaC3/Yk9UblcP7TOBirytQw=
+
+Name: res/drawable-mdpi/kr4_brand_gray_14.png
+SHA1-Digest: Bkvil6VyCikp7OZjq4icwETx44I=
+
+Name: res/drawable-xxhdpi/kr4_icon_not_adapted.png
+SHA1-Digest: j0LTtj7lv1B40q3IqRZK/x1JIZo=
+
+Name: res/drawable-hdpi/kr4_pc_tutor_img_1.jpg
+SHA1-Digest: 5fzgWIxs7RSHrb2QK7WnU2ng42o=
+
+Name: res/drawable-xxhdpi/kr4_title_icon_black.png
+SHA1-Digest: fewBwRUhfU7K6BoOBtUiuH54psw=
+
+Name: res/drawable-mdpi/kr4_brand_gray_17.png
+SHA1-Digest: aoer8e3uDR+Ncr+YaZt9IvdZJxE=
+
+Name: res/layout/kr4_pc_tutorial.xml
+SHA1-Digest: YSHA+/pRhKIwn587GT1EA4rztO0=
+
+Name: res/drawable-hdpi/kr4_star_05.png
+SHA1-Digest: 0tMMEa2Mmv6ja3h610talybToE4=
+
+Name: res/drawable-mdpi/kr4_brand_gray_16.png
+SHA1-Digest: Gpbkix63/JbQuUfScV5/zkM3jqY=
+
+Name: res/drawable-mdpi/kr4_brand_gray_06.png
+SHA1-Digest: V42WK+eQy7dRzL90dgZ+o5SCbaU=
+
+Name: res/drawable-xxhdpi/kr4_req_received_blue.png
+SHA1-Digest: zagQ6ta+fxsHfMO7lrWqF1N9fSA=
+
+Name: res/layout/kr4_detail_enable_mockloc.xml
+SHA1-Digest: sCRziGLe5obfL1Ja5injj+AEzEE=
+
+Name: res/drawable-mdpi/kr4_brand_gray_01.png
+SHA1-Digest: txSzEJAx9W53HSOhuLHvy7TRr1E=
+
+Name: res/layout/kr4_activity_test.xml
+SHA1-Digest: UhXY4uoW3c4hoLe0MLYbTqGrUEM=
+
+Name: res/drawable-mdpi/kr4_brand_gray_10.png
+SHA1-Digest: KGiR0dWhRhYeDBHt8OuWvrpmYaI=
+
+Name: res/layout/kr4_detail_show_data.xml
+SHA1-Digest: E3tiiPi4msqY5p5OHmYijwQqZoU=
+
+Name: res/drawable/kr4_circle_outer_loop_status.xml
+SHA1-Digest: GuZK3TpjzlWH5cSB+FgqrfFynAo=
+
+Name: res/drawable-hdpi/kr4_success_tick.png
+SHA1-Digest: XzSOwcu5XaurNqf0TX+GSaz8PpQ=
+
+Name: res/drawable/kr4_mock_location_tutorial.xml
+SHA1-Digest: ZMf/DQoGRPjamEz9h1qgffohX5I=
+
+Name: res/drawable-xxhdpi/kr4_icon_try_pc.png
+SHA1-Digest: FCm1N9rgal3Sq3a39yx8L5aFtGU=
+
+Name: res/drawable-hdpi/kr4_success_tick_small.png
+SHA1-Digest: VhteqyFC+FXf6FtzakUjC+AfWPs=
+
+Name: res/drawable-mdpi/kr4_brand_gray_13.png
+SHA1-Digest: 53AYZEnA/FCa6abRC0G+WdbdhMw=
+
+Name: res/layout/kr4_bottom_adapt_req_received.xml
+SHA1-Digest: kYmlNAj3+cbGCeSsQ1lXfy3JWro=
+
+Name: res/layout/kr4_activity_main.xml
+SHA1-Digest: GKVBXkpZ4kex1fMeV2QpcbZA/Lw=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: ke50Soal7r63SHdylFt4Q1bMlOc=
+
+Name: res/drawable/kr4_cleaned_tick_clip.xml
+SHA1-Digest: uJGfT6yZEQPZmuC3OORXYx81lA4=
+
+Name: res/drawable-hdpi/kr4_drag_up.png
+SHA1-Digest: O9iagSPi5jTZ114vpSkeZNqRAGE=
+
+Name: res/layout/kr4_activity_enter.xml
+SHA1-Digest: Be1zVfzRYiQwJERF9fPtkzHCk/c=
+
+Name: res/drawable-xxhdpi/kr4_title_icon_white.png
+SHA1-Digest: SytWNvnSWM0tHe/4UsWLb93VNhA=
+
+Name: res/drawable/kr4_bottom_btn_pressed.xml
+SHA1-Digest: /YD5Jx6uOSBqJ8QQvgNuSWwSOuk=
+
+Name: res/anim/kr4_activity_out.xml
+SHA1-Digest: UMJqRWK7n71W2uP4q7qXacR4Plg=
+
+Name: res/layout/kr4_success_rate_view.xml
+SHA1-Digest: UZzodIVsvQj1MAuJHrWOhgOoSH8=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: +mD1N5mlvBJjsUgz775iMpH2BR4=
+
+Name: res/layout/kr4_circle_simple_static.xml
+SHA1-Digest: 5TviAQUbocogfZrCFDP0a1Jp7as=
+
+Name: res/drawable/kr4_circle_outer_loop_failed.xml
+SHA1-Digest: mN2sOPsQa+qNBAGPvrfSrW64egU=
+
+Name: assets/libkrsdk.1.0.163.so
+SHA1-Digest: 0/m1dZM9BWCnTYXjEM18WYeXsjk=
+
+Name: res/drawable-mdpi/kr4_brand_gray_04.png
+SHA1-Digest: H+QkvYcQp5FiEYEgQM3qPvJH75A=
+
+Name: res/drawable-mdpi/kr4_brand_gray_09.png
+SHA1-Digest: 9TmBWBD8LATsZSkhxqhURtLsqGQ=
+
+Name: res/drawable-hdpi/kr4_cleaned_tick.png
+SHA1-Digest: yFIVtkwbiZtVwgct99Srv20Koms=
+
+Name: res/layout/kr4_detail_setnetwork.xml
+SHA1-Digest: UR+SLEoOYX3WyVmzxJZxeD+1f0M=
+

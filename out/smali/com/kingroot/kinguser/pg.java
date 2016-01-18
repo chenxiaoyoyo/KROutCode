@@ -1,0 +1,50 @@
+package com.kingroot.kinguser; class pg { void a() { int a;
+a=0;// .class Lcom/kingroot/kinguser/pg;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// # interfaces
+a=0;// .implements Ljava/lang/Runnable;
+a=0;// 
+a=0;// 
+a=0;// # instance fields
+a=0;// .field final synthetic pS:Lcom/kingroot/kinguser/ow;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method constructor <init>(Lcom/kingroot/kinguser/ow;)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 270
+a=0;//     iput-object p1, p0, Lcom/kingroot/kinguser/pg;->pS:Lcom/kingroot/kinguser/ow;
+a=0;// 
+a=0;//     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+a=0;// 
+a=0;//     #p0=(Reference,Lcom/kingroot/kinguser/pg;);
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// 
+a=0;// # virtual methods
+a=0;// .method public run()V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 273
+a=0;//     iget-object v0, p0, Lcom/kingroot/kinguser/pg;->pS:Lcom/kingroot/kinguser/ow;
+a=0;// 
+a=0;//     #v0=(Reference,Lcom/kingroot/kinguser/ow;);
+a=0;//     invoke-static {v0}, Lcom/kingroot/kinguser/ow;->c(Lcom/kingroot/kinguser/ow;)V
+a=0;// 
+a=0;//     .line 274
+a=0;//     invoke-static {}, Lcom/kingroot/kinguser/jc;->eA()Lcom/kingroot/kinguser/jc;
+a=0;// 
+a=0;//     move-result-object v0
+a=0;// 
+a=0;//     invoke-virtual {v0}, Lcom/kingroot/kinguser/jc;->gC()V
+a=0;// 
+a=0;//     .line 275
+a=0;//     return-void
+a=0;// .end method
+}}

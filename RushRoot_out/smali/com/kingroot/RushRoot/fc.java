@@ -1,0 +1,62 @@
+package com.kingroot.RushRoot; class fc { void a() { int a;
+a=0;// .class public final Lcom/kingroot/RushRoot/fc;
+a=0;// .super Ljava/lang/Object;
+a=0;// .source "SourceFile"
+a=0;// 
+a=0;// 
+a=0;// # static fields
+a=0;// .field private static a:Ljava/lang/String;
+a=0;// 
+a=0;// .field private static b:Ljava/lang/String;
+a=0;// 
+a=0;// 
+a=0;// # direct methods
+a=0;// .method static constructor <clinit>()V
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     const/4 v0, 0x0
+a=0;// 
+a=0;//     .line 26
+a=0;//     #v0=(Null);
+a=0;//     sput-object v0, Lcom/kingroot/RushRoot/fc;->a:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 28
+a=0;//     sput-object v0, Lcom/kingroot/RushRoot/fc;->b:Ljava/lang/String;
+a=0;// 
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// .method public static a()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 39
+a=0;//     sget-object v0, Lcom/kingroot/RushRoot/fc;->a:Ljava/lang/String;
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     return-object v0
+a=0;// .end method
+a=0;// 
+a=0;// .method public static a(Ljava/lang/String;)V
+a=0;//     .locals 0
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 35
+a=0;//     sput-object p0, Lcom/kingroot/RushRoot/fc;->a:Ljava/lang/String;
+a=0;// 
+a=0;//     .line 36
+a=0;//     return-void
+a=0;// .end method
+a=0;// 
+a=0;// .method public static b()Ljava/lang/String;
+a=0;//     .locals 1
+a=0;// 
+a=0;//     .prologue
+a=0;//     .line 47
+a=0;//     sget-object v0, Lcom/kingroot/RushRoot/fc;->b:Ljava/lang/String;
+a=0;// 
+a=0;//     #v0=(Reference,Ljava/lang/String;);
+a=0;//     return-object v0
+a=0;// .end method
+}}
