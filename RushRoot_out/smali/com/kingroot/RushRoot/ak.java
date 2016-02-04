@@ -1,7 +1,7 @@
 package com.kingroot.RushRoot; class ak { void a() { int a;
 a=0;// .class public final Lcom/kingroot/RushRoot/ak;
 a=0;// .super Ljava/lang/Object;
-a=0;// .source "SourceFile"
+a=0;// .source "SourceFile done"
 a=0;// 
 a=0;// 
 a=0;// # static fields
@@ -46,6 +46,7 @@ a=0;//     goto :goto_0
 a=0;// .end method
 a=0;// 
 a=0;// .method public static a()Ljava/lang/String;
+a=0;//     #done c==agetChannel
 a=0;//     .locals 1
 a=0;// 
 a=0;//     .prologue
@@ -327,6 +328,7 @@ a=0;//     goto :goto_3
 a=0;// .end method
 a=0;// 
 a=0;// .method public static b()Ljava/lang/String;
+a=0;//     #b==bgetVersionName
 a=0;//     .locals 1
 a=0;// 
 a=0;//     .prologue
